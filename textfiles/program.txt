@@ -1,3 +1,5 @@
 This is the first program I am writing! Well done to self.
 
 It might be a problem that the above is not entirely correct in itself alone.
+
+Something else entirely forgotten in the process, perhaps we have to stay "rustig".
